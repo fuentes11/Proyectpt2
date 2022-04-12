@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "6177624318",
+    "project_id": "db-ferreteria-mi-casa",
+    "storage_bucket": "db-ferreteria-mi-casa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6177624318:android:75ce8f9a7a6a08efcfd5af",
+        "android_client_info": {
+          "package_name": "com.example.ferreteria_mi_casa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6177624318-1sj5ildd43e1v90pg6ga125l2aujt3se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ferreteria_mi_casa",
+            "certificate_hash": "50a2e56475f2ccf954a1a74e9df6d7888e2684d4"
+          }
+        },
+        {
+          "client_id": "6177624318-temn709mu1okm1aahd0cvdgrfqh8c3sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQZVBUEskpcTKO-cRkxm6QACp7RZqs1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6177624318-temn709mu1okm1aahd0cvdgrfqh8c3sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
