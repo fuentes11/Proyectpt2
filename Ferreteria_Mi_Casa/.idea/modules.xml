@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ferreteria_Mi_Casa.iml" filepath="$PROJECT_DIR$/.idea/modules/Ferreteria_Mi_Casa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ferreteria_Mi_Casa.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ferreteria_Mi_Casa.app.iml" />
+    </modules>
+  </component>
+</project>
