@@ -1,14 +1,26 @@
 [
     {
-        "merged": "C:\\Users\\BIG APPLE\\AndroidStudioProjects\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "C:\\Users\\BIG APPLE\\AndroidStudioProjects\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\jason\\AndroidStudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_list.xml",
+        "source": "C:\\Users\\jason\\AndroidStudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\layout\\item_list.xml"
     },
     {
-        "merged": "C:\\Users\\BIG APPLE\\AndroidStudioProjects\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_in.xml",
-        "source": "C:\\Users\\BIG APPLE\\AndroidStudioProjects\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+        "merged": "C:\\Users\\jason\\AndroidStudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_products.xml",
+        "source": "C:\\Users\\jason\\AndroidStudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\layout\\activity_main_products.xml"
     },
     {
-        "merged": "C:\\Users\\BIG APPLE\\AndroidStudioProjects\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
-        "source": "C:\\Users\\BIG APPLE\\AndroidStudioProjects\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "C:\\Users\\jason\\AndroidStudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\jason\\AndroidStudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jason\\AndroidStudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_new.xml",
+        "source": "C:\\Users\\jason\\AndroidStudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\layout\\activity_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\jason\\AndroidStudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "C:\\Users\\jason\\AndroidStudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\jason\\AndroidStudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\jason\\AndroidStudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\layout\\activity_main.xml"
     }
 ]

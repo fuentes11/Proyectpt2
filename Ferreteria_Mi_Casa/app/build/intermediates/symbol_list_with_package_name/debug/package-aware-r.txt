@@ -2638,6 +2638,9 @@ id aligned
 id all
 id allStates
 id always
+id animalImg
+id animalInfo
+id animalName
 id animateToEnd
 id animateToStart
 id antiClockwise
@@ -2711,6 +2714,7 @@ id custom
 id customPanel
 id cut
 id dark
+id dataBinding
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -2772,6 +2776,7 @@ id fragment_container_view_tag
 id frost
 id ghost_view
 id ghost_view_holder
+id glide_custom_view_target_tag
 id gone
 id graph
 id graph_wrap
@@ -2872,6 +2877,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id name
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -2893,6 +2899,8 @@ id notification_main_column
 id notification_main_column_container
 id off
 id on
+id onAttachStateChangeListener
+id onDateChanged
 id onInterceptTouchReturnSwipe
 id outline
 id outward
@@ -2911,11 +2919,13 @@ id percent
 id pin
 id position
 id postLayout
+id price
 id progress_circular
 id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recyclerproducts
 id reverseSawtooth
 id right
 id rightToLeft
@@ -3009,6 +3019,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textWatcher
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3146,6 +3157,8 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_home
 layout activity_main
+layout activity_main_products
+layout activity_new
 layout activity_sign_in
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
@@ -3165,6 +3178,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout item_list
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title

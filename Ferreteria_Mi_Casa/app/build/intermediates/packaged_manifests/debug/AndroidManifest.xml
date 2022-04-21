@@ -26,13 +26,22 @@
         android:testOnly="true"
         android:theme="@style/Theme.AppCompat.NoActionBar" >
         <activity
+            android:name="com.example.ferreteria_mi_casa.NewActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ferreteria_mi_casa.Empyactivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ferreteria_mi_casa.MainActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.ferreteria_mi_casa.Home"
             android:exported="false" />
         <activity
             android:name="com.example.ferreteria_mi_casa.SignInActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.ferreteria_mi_casa.MainActivity"
+            android:name="com.example.ferreteria_mi_casa.MainProducts"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -83,6 +92,9 @@
             android:exported="false" >
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
