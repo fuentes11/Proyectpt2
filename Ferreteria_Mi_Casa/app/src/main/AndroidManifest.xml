@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
         <activity
+            android:name=".Mainbranch"
+            android:exported="false" />
+        <activity
+            android:name=".branchs.model2.Mainbranch"
+            android:exported="false" />
+        <activity
             android:name=".NewActivity"
             android:exported="false" />
         <activity
