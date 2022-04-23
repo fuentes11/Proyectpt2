@@ -28,7 +28,7 @@
                 android:layout_height="wrap_content">
                 <ImageView
                     android:id="@+id/branchImg"
-                    android:imageUrl="@{Areproducts.image}"
+                    android:imageUrl="@{arebranch.image}"
                     android:scaleType="centerCrop"
                     android:layout_width="140dp"
                     android:layout_height="140dp"/>
@@ -44,7 +44,7 @@
                         android:gravity="center"
                         android:textStyle="bold|normal"
                         android:layout_gravity="center"
-                        android:text="@{Areproducts.name}"
+                        android:text="@{arebranch.name}"
                         android:layout_margin="10dp"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"/>
@@ -56,7 +56,7 @@
                         android:gravity="center"
                         android:textStyle="bold|normal"
                         android:layout_gravity="center"
-                        android:text="@{Areproducts.price}"
+                        android:text="@{arebranch.info}"
                         android:layout_margin="10dp"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"/>

@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import androidx.databinding.DataBindingUtil
 import com.example.ferreteria_mi_casa.NewActivity
+import com.example.ferreteria_mi_casa.NewBranch
 import com.example.ferreteria_mi_casa.R
 import com.example.ferreteria_mi_casa.branchs.model2.BranchData
 import com.example.ferreteria_mi_casa.databinding.ItemList2Binding
@@ -36,7 +37,7 @@ class BranchAdapter(
             val name = newList.name
             val info = newList.info
 
-            val mIntent = Intent(c, NewActivity::class.java)
+            val mIntent = Intent(c, NewBranch::class.java)
             mIntent.putExtra("image",image)
             mIntent.putExtra("name",name)
             mIntent.putExtra("info",info)
