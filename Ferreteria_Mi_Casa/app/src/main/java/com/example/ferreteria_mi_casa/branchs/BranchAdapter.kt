@@ -21,7 +21,7 @@ class BranchAdapter(
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): BranchViewHolder {
         val inflater = LayoutInflater.from(parent.context)
-        val v = DataBindingUtil.inflate<ItemListBinding>(
+        val v = DataBindingUtil.inflate<ItemList2Binding>(
             inflater, R.layout.item_list2,parent,
             false)
         return BranchViewHolder(v)
