@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/TODO/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/drawable/splash_background.xml" value="0.1395" />
+        <entry key="..\:/TODO/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/TODO/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/item_list.xml" value="0.358695652173913" />
+        <entry key="..\:/TODO/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/sold_activity.xml" value="0.358695652173913" />
         <entry key="..\:/Users/BIG APPLE/AndroidStudioProjects/Ferreteria_Mi_Casa/app/src/main/res/drawable/container_btn.xml" value="0.2703125" />
         <entry key="..\:/Users/BIG APPLE/AndroidStudioProjects/Ferreteria_Mi_Casa/app/src/main/res/drawable/container_edittext.xml" value="0.2703125" />
         <entry key="..\:/Users/BIG APPLE/AndroidStudioProjects/Ferreteria_Mi_Casa/app/src/main/res/drawable/container_out_btn.xml" value="0.2484375" />

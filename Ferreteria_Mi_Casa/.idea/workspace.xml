@@ -9,8 +9,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5f53fd4-a173-4f0f-8713-0c1751297086" name="Default Changelist" comment="Catalogo e informacion">
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+    <list default="true" id="a5f53fd4-a173-4f0f-8713-0c1751297086" name="Default Changelist" comment="Gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Ferreteria_Mi_Casa.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Ferreteria_Mi_Casa.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/branchs/model2/BranchData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/branchs/model2/BranchData.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +58,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/.." value="Diego" />
+        <entry key="$PROJECT_DIR$/.." value="Jason" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -220,7 +223,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bdb04615-6aea-45e3-bbbd-3bfe456d89bb" name="Default Changelist" comment="" />
+      <changelist id="a5f53fd4-a173-4f0f-8713-0c1751297086" name="Default Changelist" comment="Gitignore" />
       <created>1649372231341</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -240,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650603143646</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Gitignore">
+      <created>1650686908876</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650686908877</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,6 +267,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Catalogo e informacion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Catalogo e informacion" />
+    <MESSAGE value="Gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gitignore" />
   </component>
 </project>
