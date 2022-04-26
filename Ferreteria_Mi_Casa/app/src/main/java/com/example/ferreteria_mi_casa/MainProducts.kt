@@ -8,6 +8,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.ferreteria_mi_casa.products.Adapter
 import com.example.ferreteria_mi_casa.products.model.ProductData
 import com.google.firebase.database.*
+import com.google.firebase.database.DatabaseReference
 import kotlinx.android.synthetic.main.activity_main_products.*
 
 class MainProducts : AppCompatActivity() {
