@@ -35,7 +35,7 @@ class Home : AppCompatActivity() {
             binding.txtemail.text = email
 
         } else {
-            startActivity(Intent(this, MainActivity::class.java))
+            Intent(Intent(this, MainActivity::class.java))
             finish()
         }
 

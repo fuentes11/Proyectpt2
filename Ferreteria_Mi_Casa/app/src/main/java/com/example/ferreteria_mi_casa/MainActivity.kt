@@ -66,7 +66,7 @@ class MainActivity : AppCompatActivity() {
         //sing in a new acount in class sing in
         binding.newacount.setOnClickListener{
             startActivity(Intent(this, SignInActivity::class.java))
-            finish()
+
         }
     }
 
@@ -107,7 +107,7 @@ progressDialog.dismiss()
         val firebaseUser = firebaseAuth.currentUser
         if (firebaseUser!= null){
             startActivity(Intent(this, Home::class.java))
-            finish()
+
         }
     }
 

@@ -2074,11 +2074,11 @@
                     "source": "D:\\TODO\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "15,2",
-                        "startColumns": "4,4",
-                        "startOffsets": "847,102",
+                        "startColumns": "8,4",
+                        "startOffsets": "851,102",
                         "endLines": "17,14",
                         "endColumns": "12,12",
-                        "endOffsets": "1006,841"
+                        "endOffsets": "1010,841"
                     },
                     "to": {
                         "startLines": "2,12",
@@ -3427,9 +3427,9 @@
                     "from": {
                         "startLines": "4,1,11,15,8,3,6,7,17,14,5,13,16",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "152,17,430,567,359,99,237,304,686,512,193,473,631",
+                        "startOffsets": "148,16,419,552,351,96,231,297,669,498,188,460,615",
                         "endColumns": "39,55,39,62,42,51,65,53,45,53,42,37,53",
-                        "endOffsets": "187,68,465,625,397,146,298,353,727,561,231,506,680"
+                        "endOffsets": "183,67,454,610,389,143,292,346,710,547,226,493,664"
                     },
                     "to": {
                         "startLines": "1626,1655,1793,1798,1802,1884,1885,1886,1887,1893,1896,1898,1901",

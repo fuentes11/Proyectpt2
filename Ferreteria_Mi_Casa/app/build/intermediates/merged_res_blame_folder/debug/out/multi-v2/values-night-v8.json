@@ -41,11 +41,11 @@
                     "source": "D:\\TODO\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "15,2",
-                        "startColumns": "4,4",
-                        "startOffsets": "847,102",
+                        "startColumns": "8,4",
+                        "startOffsets": "851,102",
                         "endLines": "17,14",
                         "endColumns": "12,12",
-                        "endOffsets": "1006,841"
+                        "endOffsets": "1010,841"
                     },
                     "to": {
                         "startLines": "2,12",
