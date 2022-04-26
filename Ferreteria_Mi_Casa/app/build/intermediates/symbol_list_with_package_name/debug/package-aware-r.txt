@@ -1324,6 +1324,7 @@ color fui_transparent
 color gray
 color highlighted_text_material_dark
 color highlighted_text_material_light
+color ic_launcher_round_background
 color lila
 color lila_obscure
 color m3_appbar_overlay_color
@@ -2618,6 +2619,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable splash_background
 drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
@@ -2701,6 +2703,9 @@ id aligned
 id all
 id allStates
 id always
+id animalImg
+id animalInfo
+id animalName
 id animateToEnd
 id animateToStart
 id anonymous_button
@@ -2724,11 +2729,15 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id branchImg
+id branchInfo
+id branchName
 id browser_actions_header_text
 id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
+id btnBack
 id btn_holder
 id btnlogin
 id btnlogout
@@ -2788,6 +2797,7 @@ id custom
 id customPanel
 id cut
 id dark
+id dataBinding
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -2860,6 +2870,7 @@ id fragment_register_email
 id frost
 id ghost_view
 id ghost_view_holder
+id glide_custom_view_target_tag
 id gone
 id google
 id graph
@@ -2885,9 +2896,11 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id image2
 id immediateStop
 id included
 id info
+id info2
 id invisible
 id invisible_frame
 id inward
@@ -2970,6 +2983,7 @@ id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
 id name
+id name2
 id name_layout
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
@@ -2992,6 +3006,8 @@ id notification_main_column
 id notification_main_column_container
 id off
 id on
+id onAttachStateChangeListener
+id onDateChanged
 id onInterceptTouchReturnSwipe
 id outline
 id outward
@@ -3015,11 +3031,14 @@ id phone_number
 id pin
 id position
 id postLayout
+id price
 id progress_circular
 id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recyclerbranch
+id recyclerproducts
 id resend_barrier
 id resend_code
 id reverseSawtooth
@@ -3121,6 +3140,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textWatcher
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3268,6 +3288,10 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_home
 layout activity_main
+layout activity_main_products
+layout activity_mainbranch
+layout activity_new
+layout activity_new_branch
 layout activity_sign_in
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
@@ -3310,6 +3334,8 @@ layout fui_register_email_layout
 layout fui_welcome_back_email_link_prompt_layout
 layout fui_welcome_back_idp_prompt_layout
 layout fui_welcome_back_password_prompt_layout
+layout item_list
+layout item_list2
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3374,6 +3400,7 @@ layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout sold_activity
 layout support_simple_spinner_dropdown_item
 layout test_action_chip
 layout test_chip_zero_corner_radius
@@ -3394,6 +3421,8 @@ menu example_menu
 menu example_menu2
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap ic_launcher_round_foreground
+mipmap ic_launcher_round_round
 plurals fui_error_weak_password
 plurals mtrl_badge_content_description
 string Login
@@ -3558,6 +3587,7 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
+string gracias
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
@@ -3652,6 +3682,7 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string pedido_listo
 string project_id
 string search_menu_title
 string signin
@@ -3659,6 +3690,7 @@ string status_bar_notification_info_overflow
 string tel
 string twitter_consumer_key
 string twitter_consumer_secret
+string ver_mas
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow
@@ -4063,6 +4095,7 @@ style ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year
 style ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox
 style ShapeAppearanceOverlay_TopLeftCut
 style ShapeAppearanceOverlay_TopRightDifferentCornerSize
+style SplashTheme
 style Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day
 style Test_Theme_MaterialComponents_MaterialCalendar
 style Test_Widget_MaterialComponents_MaterialCalendar

@@ -6,11 +6,13 @@ import android.os.Bundle
 import com.example.ferreteria_mi_casa.Home
 import com.example.ferreteria_mi_casa.MainActivity
 import com.example.ferreteria_mi_casa.R
+import java.util.*
 
 class SplashActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-startActivity(Intent(this,MainActivity::class.java))
-        finish()
+startActivity(Intent(this,Home::class.java))
+
+        
     }
 }

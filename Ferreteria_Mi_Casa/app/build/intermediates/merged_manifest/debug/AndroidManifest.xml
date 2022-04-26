@@ -26,20 +26,36 @@
         android:testOnly="true"
         android:theme="@style/Theme.AppCompat.NoActionBar" >
         <activity
-            android:name="com.example.ferreteria_mi_casa.Home"
+            android:name="com.example.ferreteria_mi_casa.NewBranch"
             android:exported="false" />
         <activity
-            android:name="com.example.ferreteria_mi_casa.SignInActivity"
-            android:exported="false" />
-        <activity
-            android:name="com.example.ferreteria_mi_casa.MainActivity"
-            android:exported="true" >
+            android:name="com.example.ferreteria_mi_casa.products.SplashActivity"
+            android:exported="true"
+            android:theme="@style/SplashTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.ferreteria_mi_casa.Mainbranch"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ferreteria_mi_casa.NewActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ferreteria_mi_casa.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ferreteria_mi_casa.Home"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ferreteria_mi_casa.SignInActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.ferreteria_mi_casa.MainProducts"
+            android:exported="true" />
 
         <meta-data
             android:name="com.google.android.gms.version"
@@ -176,7 +192,16 @@
                 android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
