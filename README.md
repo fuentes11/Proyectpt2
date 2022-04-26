@@ -4,6 +4,8 @@ Diego Alberto Sandoval Rivera. SR200029
 Andrea Elizabeth Blanco Suárez. BS200382
 Byron Roberto Sánchez Carrillo. SC170935
 Desarrollo de Software para Android DSA441 G01T
+# Manual de Usuario
+https://drive.google.com/file/d/1sjc9BV-qoDKeF3ojoRJLhWMTUUak4IMi/view?usp=sharing
 # Manual Tecnico
 https://drive.google.com/file/d/1A5PxJ3CNCGAMARuFj6WS34Om3B7Y-8vn/view?usp=sharing
 # Trello 
