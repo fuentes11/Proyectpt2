@@ -9,10 +9,14 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5f53fd4-a173-4f0f-8713-0c1751297086" name="Default Changelist" comment="Data y db BRANCH">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/branchs/BranchAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/branchs/BranchAdapter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_branch.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_branch.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_list2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_list2.xml" afterDir="false" />
+    <list default="true" id="a5f53fd4-a173-4f0f-8713-0c1751297086" name="Default Changelist" comment="BranchAdapter,newbranch,item2">
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Ferreteria_Mi_Casa.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Ferreteria_Mi_Casa.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/MainProducts.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/MainProducts.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -278,6 +282,8 @@
     <MESSAGE value="Catalogo e informacion" />
     <MESSAGE value="Gitignore" />
     <MESSAGE value="Data y db BRANCH" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data y db BRANCH" />
+    <MESSAGE value="BranchAdapter,newbranch,item2" />
+    <option name="LAST_COMMIT_MESSAGE" value="BranchAdapter,newbranch,item2" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
