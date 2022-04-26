@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity() {
         }
         //login user
         binding.btnlogin.setOnClickListener{
-            startActivity(Intent(this, Home::class.java))
+            startActivity(Intent(this, MainProducts::class.java))
            validate()
         }
         //sing in a new acount in class sing in
