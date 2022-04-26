@@ -12,6 +12,7 @@ import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.ferreteria_mi_casa.R;
+import com.google.android.gms.common.SignInButton;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -30,14 +31,19 @@ public final class ActivityMainBinding implements ViewBinding {
   public final EditText etxpassword;
 
   @NonNull
+  public final SignInButton google;
+
+  @NonNull
   public final Button newacount;
 
   private ActivityMainBinding(@NonNull LinearLayout rootView, @NonNull Button btnlogin,
-      @NonNull EditText etxgmail, @NonNull EditText etxpassword, @NonNull Button newacount) {
+      @NonNull EditText etxgmail, @NonNull EditText etxpassword, @NonNull SignInButton google,
+      @NonNull Button newacount) {
     this.rootView = rootView;
     this.btnlogin = btnlogin;
     this.etxgmail = etxgmail;
     this.etxpassword = etxpassword;
+    this.google = google;
     this.newacount = newacount;
   }
 
@@ -86,6 +92,12 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.google;
+      SignInButton google = ViewBindings.findChildViewById(rootView, id);
+      if (google == null) {
+        break missingId;
+      }
+
       id = R.id.newacount;
       Button newacount = ViewBindings.findChildViewById(rootView, id);
       if (newacount == null) {
@@ -93,7 +105,7 @@ public final class ActivityMainBinding implements ViewBinding {
       }
 
       return new ActivityMainBinding((LinearLayout) rootView, btnlogin, etxgmail, etxpassword,
-          newacount);
+          google, newacount);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

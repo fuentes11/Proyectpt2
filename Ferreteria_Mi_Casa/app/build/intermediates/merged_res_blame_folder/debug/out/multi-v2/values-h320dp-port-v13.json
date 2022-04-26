@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\BIG APPLE\\AndroidStudioProjects\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+            "outputFile": "C:\\Users\\BIG APPLE\\Documents\\GitHub\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\BIG APPLE\\.gradle\\caches\\transforms-3\\6229cf43a21c82a2b9e9922cbaaf2efc\\transformed\\material-1.5.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
