@@ -10,16 +10,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5f53fd4-a173-4f0f-8713-0c1751297086" name="Default Changelist" comment="Data y db BRANCH">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/branchs/BranchAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/branchs/BranchAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/CartActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/OrderReady.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/basurero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/casco.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/martillo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/tubo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_add_box_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_clear_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_indeterminate_check_box_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_cart.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Ferreteria_Mi_Casa.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Ferreteria_Mi_Casa.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/MainProducts.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/MainProducts.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/NewActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/NewActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/NewBranch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/NewBranch.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/products/model/ProductData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/ferreteria_mi_casa/products/model/ProductData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_branch.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_branch.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_list2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_list2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/sold_activity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/sold_activity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Harry Desktop\.android\avd\Pixel_5_API_30.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -63,6 +89,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="27UQYON2D2Zcm5qXHtx4PNvW6p1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -76,34 +110,24 @@
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\jason\AndroidStudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\res\layout" />
-      <recent name="C:\Users\jason\AndroidStudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\java\com\example\ferreteria_mi_casa\Products" />
-    </key>
     <key name="android.template.-1392483796">
       <recent name="com.example.ferreteria_mi_casa.Products" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\jason\AndroidStudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\java\com\example\ferreteria_mi_casa" />
-      <recent name="C:\Users\BIG APPLE\AndroidStudioProjects\Ferreteria_Mi_Casa\app\src\main\res\drawable" />
-      <recent name="C:\Users\BIG APPLE\AndroidStudioProjects\Ferreteria_Mi_Casa\app" />
-    </key>
-    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
-      <recent name="com.example.ferreteria_mi_casa" />
-      <recent name="com.example.ferreteria_mi_casa.products" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.example.ferreteria_mi_casa" />
-    </key>
-    <key name="android.template.1308592683">
       <recent name="com.example.ferreteria_mi_casa" />
     </key>
     <key name="android.template.1991985048">
@@ -114,16 +138,37 @@
       <recent name="com.example.ferreteria_mi_casa.Products" />
       <recent name="com.example.ferreteria_mi_casa" />
     </key>
+    <key name="android.template.185712583">
+      <recent name="com.example.ferreteria_mi_casa" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="S:\Ferreteria\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\res\drawable-v24" />
+      <recent name="S:\Ferreteria\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\res\drawable" />
+      <recent name="C:\Users\jason\AndroidStudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\res\layout" />
+      <recent name="C:\Users\jason\AndroidStudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\java\com\example\ferreteria_mi_casa\Products" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jason\AndroidStudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\java\com\example\ferreteria_mi_casa" />
+      <recent name="C:\Users\BIG APPLE\AndroidStudioProjects\Ferreteria_Mi_Casa\app\src\main\res\drawable" />
+      <recent name="C:\Users\BIG APPLE\AndroidStudioProjects\Ferreteria_Mi_Casa\app" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.example.ferreteria_mi_casa" />
+      <recent name="com.example.ferreteria_mi_casa.products" />
+    </key>
+    <key name="android.template.1308592683">
+      <recent name="com.example.ferreteria_mi_casa" />
+    </key>
     <key name="android.template.-1399418704">
       <recent name="com.example.ferreteria_mi_casa.products" />
     </key>
     <key name="android.template.821568976">
       <recent name="com.example.ferreteria_mi_casa" />
     </key>
-    <key name="android.template.2062898396">
+    <key name="android.template.-517377937">
       <recent name="com.example.ferreteria_mi_casa" />
     </key>
-    <key name="android.template.185712583">
+    <key name="android.template.2062898396">
       <recent name="com.example.ferreteria_mi_casa" />
     </key>
   </component>

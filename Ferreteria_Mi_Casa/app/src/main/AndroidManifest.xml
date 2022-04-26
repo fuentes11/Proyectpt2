@@ -12,12 +12,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
         <activity
-            android:name=".NewBranch"
+            android:name=".CartActivity"
             android:exported="false" />
         <activity
+            android:name=".NewBranch"
+            android:exported="false"></activity>
+        <activity
             android:name=".products.SplashActivity"
-            android:exported="true"
-            android:theme="@style/SplashTheme">
+            android:exported="false"
+            android:theme="@style/SplashTheme"></activity>
+        <activity
+            android:name=".Mainbranch"
+            android:exported="false" />
+        <activity
+            android:name=".NewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -25,29 +37,17 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Mainbranch"
-            android:exported="false" />
-        <activity
-            android:name=".branchs.model2.Mainbranch"
-            android:exported="false" />
-        <activity
-            android:name=".NewActivity"
-            android:exported="false" />
-        <activity
-            android:name=".Empyactivity"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="false" />
-        <activity
             android:name=".Home"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".SignInActivity"
             android:exported="false" />
         <activity
             android:name=".MainProducts"
-            android:exported="true"></activity>
+            android:exported="false"/>
+        <activity
+            android:name=".OrderReady"
+            android:exported="false"/>
     </application>
 
 </manifest>

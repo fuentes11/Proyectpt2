@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CartActivity"
+    >
+
+    <LinearLayout
+        android:id="@+id/panel"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:orientation="horizontal"
+        android:background="@drawable/container_btn"
+        android:weightSum="16">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:layout_gravity="start|center_vertical"
+            android:id="@+id/btnBack"
+            android:src="@drawable/ic_baseline_arrow_back_24"
+            />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="11"
+            android:layout_gravity="center_vertical"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="CARRITO"
+            android:id="@+id/txtTotal"
+            android:textColor="@color/black"
+            />
+
+
+
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/panel">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="12dp"
+                android:padding="8dp"
+                android:layout_margin="8dp"
+                android:background="@color/white">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="8dp"
+                    android:weightSum="5"
+                    android:background="@color/lila">
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:src="@drawable/basurero"
+                        android:layout_width="70dp"
+                        android:layout_height="150dp"
+                        android:layout_weight="1"/>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_weight="4"
+                        android:weightSum="5"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <RelativeLayout
+                            android:layout_width="0dp"
+                            android:layout_weight="4.2"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/txtNamea"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:textSize="27sp"
+                                android:layout_marginTop="50dp"
+                                android:layout_marginLeft="20dp"
+                                android:text="Basurero"
+                                android:textColor="@color/white"/>
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_alignParentBottom="true">
+
+                                <ImageView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center_vertical"
+                                    android:id="@+id/btnMinus"
+                                    android:src="@drawable/ic_baseline_indeterminate_check_box_24"/>
+
+
+                                <TextView
+                                    android:id="@+id/txtQuantity"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:gravity="bottom"
+                                    android:text="2"
+                                    android:textStyle="bold"
+                                    android:textSize="20sp"
+                                    android:layout_marginLeft="8dp"
+                                    android:layout_marginRight="9.1dp"
+                                    android:textColor="@color/white"/>
+
+
+
+                                <ImageView
+                                    android:id="@+id/btnPlus"
+                                    android:layout_width="20dp"
+                                    android:layout_height="18dp"
+                                    android:layout_gravity="center_vertical"
+                                    android:src="@drawable/ic_baseline_add_box_24" />
+
+
+
+                            </LinearLayout>
+
+                            <TextView
+                                android:id="@+id/txtprice"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="$60.99"
+                                android:textSize="25sp"
+                                android:textStyle="bold"
+                                android:layout_alignParentBottom="true"
+                                android:layout_alignParentEnd="true"
+                                android:layout_alignParentRight="true"
+                                android:textColor="@color/yellow"/>
+
+                        </RelativeLayout>
+
+                        <ImageView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:id="@+id/btnDelete"
+                            android:src="@drawable/ic_baseline_clear_24"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+        </ScrollView>
+
+        <TextView
+            android:id="@+id/txttotala"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="total:                                       $60.99"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textColor="@color/yellow"
+            android:layout_marginLeft="18dp"
+            android:layout_marginTop="540dp"/>
+
+        <Button android:layout_height="wrap_content"
+            android:layout_width="150dp"
+            android:id="@+id/btn_addtocart"
+            android:text="Comprar"
+            android:layout_marginLeft="138dp"
+            android:layout_marginTop="599dp"
+            android:textSize="24dp"/>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
