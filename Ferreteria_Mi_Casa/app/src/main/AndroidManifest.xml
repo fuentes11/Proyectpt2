@@ -27,14 +27,9 @@
         <activity
             android:name=".Mainbranch"
             android:exported="false" />
-        <activity
-            android:name=".branchs.model2.Mainbranch"
-            android:exported="false" />
+
         <activity
             android:name=".NewActivity"
-            android:exported="false" />
-        <activity
-            android:name=".Empyactivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
@@ -47,7 +42,7 @@
             android:exported="false" />
         <activity
             android:name=".MainProducts"
-            android:exported="true"></activity>
+            android:exported="true" />
     </application>
 
 </manifest>
