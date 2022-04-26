@@ -6,6 +6,8 @@ Byron Roberto Sánchez Carrillo. SC170935
 Desarrollo de Software para Android DSA441 G01T
 # Manual de Usuario
 https://drive.google.com/file/d/1sjc9BV-qoDKeF3ojoRJLhWMTUUak4IMi/view?usp=sharing
+# Video 
+https://youtu.be/I75XZaj_ueY
 # Manual Tecnico
 https://drive.google.com/file/d/1A5PxJ3CNCGAMARuFj6WS34Om3B7Y-8vn/view?usp=sharing
 # Trello 
