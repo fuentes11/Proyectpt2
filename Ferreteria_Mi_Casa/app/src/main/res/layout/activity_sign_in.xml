@@ -55,7 +55,7 @@
         android:inputType="textPassword"
         android:layout_gravity="center"
         app:passwordToggleEnabled="true"
-        android:hint="@string/gmail"
+        android:hint="@string/password"
         android:background="@drawable/container_edittext"
         android:textAlignment="center"
         android:textColor="@color/black"

@@ -219,14 +219,14 @@ ADDED from D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xm
 		ADDED from D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:16:13-37
 	android:name
 		ADDED from D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:15:13-38
-activity#com.example.ferreteria_mi_casa.products.SplashActivity
+activity#com.example.ferreteria_mi_casa.SplashActivity
 ADDED from D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:17:9-26:20
 	android:exported
 		ADDED from D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:19:13-36
 	android:theme
 		ADDED from D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:20:13-47
 	android:name
-		ADDED from D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:18:13-52
+		ADDED from D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:18:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN

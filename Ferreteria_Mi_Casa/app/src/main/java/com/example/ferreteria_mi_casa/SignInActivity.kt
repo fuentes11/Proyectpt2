@@ -70,7 +70,7 @@ class SignInActivity : AppCompatActivity() {
                 val firebaseUser = firebaseAuth.currentUser
                 val email = firebaseUser!!.email
                 Toast.makeText(this, "Acount create as $email", Toast.LENGTH_LONG).show()
-                startActivity(Intent(this, Home::class.java))
+                startActivity(Intent(this, MainProducts::class.java))
                 finish()
             }
             .addOnFailureListener{ e->

@@ -15,7 +15,7 @@
             android:name=".NewBranch"
             android:exported="false" />
         <activity
-            android:name=".products.SplashActivity"
+            android:name=".SplashActivity"
             android:exported="true"
             android:theme="@style/SplashTheme">
             <intent-filter>

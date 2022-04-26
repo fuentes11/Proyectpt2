@@ -53,8 +53,8 @@
 30-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:16:13-37
 31        <activity
 31-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:17:9-26:20
-32            android:name="com.example.ferreteria_mi_casa.products.SplashActivity"
-32-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:18:13-52
+32            android:name="com.example.ferreteria_mi_casa.SplashActivity"
+32-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:18:13-43
 33            android:exported="true"
 33-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:19:13-36
 34            android:theme="@style/SplashTheme" >

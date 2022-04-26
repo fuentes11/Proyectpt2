@@ -10,10 +10,11 @@
 
     <!--HINT EDITEXT-->
     <string name="gmail">Email</string>
-    <string name="password">Password</string>
+
     <string name="tel">Phone</string>
     <string name="pedido_listo">PEDIDO LISTO</string>
     <string name="gracias">Gracias por tu preferencia</string>
     <string name="ver_mas">VER MAS PRODUCTOS</string>
+    <string name="password">Password</string>
 
 </resources>

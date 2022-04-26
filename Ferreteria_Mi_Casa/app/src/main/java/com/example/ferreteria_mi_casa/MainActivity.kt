@@ -150,8 +150,7 @@ progressDialog.dismiss()
                 Toast.makeText(this, "Succesfull \n" +
                         "$email", Toast.LENGTH_SHORT).show()
             }
-startActivity(Intent(this@MainActivity, Home::class.java))
-            finish()
+
         }
         .addOnFailureListener { e ->
             Log.d(TAG, "firebaseAuthWithGoogle: Login Failed")
