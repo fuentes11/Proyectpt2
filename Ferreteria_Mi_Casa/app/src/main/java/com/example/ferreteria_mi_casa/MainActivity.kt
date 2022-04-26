@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity() {
         }
         //login user
         binding.btnlogin.setOnClickListener{
-            startActivity(Intent(this, Home::class.java))
+            startActivity(Intent(this, MainProducts::class.java))
            validate()
         }
         //sing in a new acount in class sing in
@@ -94,7 +94,7 @@ progressDialog.dismiss()
                 val firebaseUser = firebaseAuth.currentUser
                 val email = firebaseUser!!.email
                 Toast.makeText(this, "Login as $email", Toast.LENGTH_LONG).show()
-                startActivity(Intent(this, Home::class.java))
+                startActivity(Intent(this, MainProducts::class.java))
                 finish()
             }
             .addOnFailureListener{ e->
@@ -106,7 +106,7 @@ progressDialog.dismiss()
     private fun checkUser() {
         val firebaseUser = firebaseAuth.currentUser
         if (firebaseUser!= null){
-            startActivity(Intent(this, Home::class.java))
+            startActivity(Intent(this, MainProducts::class.java))
             finish()
         }
     }
