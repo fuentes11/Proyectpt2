@@ -1,8 +1,0 @@
-com/example/ferreteria_mi_casa/databinding/ActivityHomeBinding.java
- com.example.ferreteria_mi_casa.databinding.ActivityHomeBinding
-com/example/ferreteria_mi_casa/databinding/ActivityMainBinding.java
- com.example.ferreteria_mi_casa.databinding.ActivityMainBinding
-com/example/ferreteria_mi_casa/BuildConfig.java
- com.example.ferreteria_mi_casa.BuildConfig
-com/example/ferreteria_mi_casa/databinding/ActivitySignInBinding.java
- com.example.ferreteria_mi_casa.databinding.ActivitySignInBinding
