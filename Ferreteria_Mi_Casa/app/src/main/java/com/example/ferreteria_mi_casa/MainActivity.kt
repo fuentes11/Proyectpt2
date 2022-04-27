@@ -66,7 +66,7 @@ class MainActivity : AppCompatActivity() {
         //sing in a new acount in class sing in
         binding.newacount.setOnClickListener{
             startActivity(Intent(this, SignInActivity::class.java))
-
+            finish()
         }
     }
 
@@ -94,7 +94,7 @@ progressDialog.dismiss()
                 val firebaseUser = firebaseAuth.currentUser
                 val email = firebaseUser!!.email
                 Toast.makeText(this, "Login as $email", Toast.LENGTH_LONG).show()
-                startActivity(Intent(this, Home::class.java))
+                startActivity(Intent(this, MainProducts::class.java))
                 finish()
             }
             .addOnFailureListener{ e->
@@ -106,8 +106,8 @@ progressDialog.dismiss()
     private fun checkUser() {
         val firebaseUser = firebaseAuth.currentUser
         if (firebaseUser!= null){
-            startActivity(Intent(this, Home::class.java))
-
+            startActivity(Intent(this, MainProducts::class.java))
+            finish()
         }
     }
 
@@ -150,7 +150,8 @@ progressDialog.dismiss()
                 Toast.makeText(this, "Succesfull \n" +
                         "$email", Toast.LENGTH_SHORT).show()
             }
-
+startActivity(Intent(this@MainActivity, Home::class.java))
+            finish()
         }
         .addOnFailureListener { e ->
             Log.d(TAG, "firebaseAuthWithGoogle: Login Failed")

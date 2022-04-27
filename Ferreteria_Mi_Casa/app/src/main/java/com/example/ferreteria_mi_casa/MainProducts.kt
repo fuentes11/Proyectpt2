@@ -1,6 +1,7 @@
 package com.example.ferreteria_mi_casa
 
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
@@ -10,6 +11,7 @@ import com.example.ferreteria_mi_casa.products.model.ProductData
 import com.google.firebase.database.*
 import com.google.firebase.database.DatabaseReference
 import kotlinx.android.synthetic.main.activity_main_products.*
+import kotlinx.android.synthetic.main.activity_new.*
 
 class MainProducts : AppCompatActivity() {
     lateinit var mDataBase: DatabaseReference
@@ -26,6 +28,8 @@ class MainProducts : AppCompatActivity() {
         // recyclerAnimals.adapter = mAdapter
         /**getData firebase*/
         getProductsData()
+
+
 
     }
     /**ok now create new activity*/
@@ -54,6 +58,7 @@ class MainProducts : AppCompatActivity() {
 
 
     }
+
 
 
 

@@ -8,7 +8,7 @@ import kotlinx.android.synthetic.main.activity_new_branch.*
 class NewBranch : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_new)
+        setContentView(R.layout.activity_new_branch)
 
         /**get Data*/
         val BranchIntent = intent

@@ -12,18 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
         <activity
-            android:name=".SplashActivity"
-            android:exported="true"
-            android:theme="@style/SplashTheme">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+            android:name=".CartActivity"
+            android:exported="false" />
         <activity
             android:name=".NewBranch"
-            android:exported="false" />
+            android:exported="false"></activity>
+        <activity
+            android:name=".products.SplashActivity"
+            android:exported="false"
+            android:theme="@style/SplashTheme"></activity>
         <activity
             android:name=".Mainbranch"
             android:exported="false" />
@@ -32,16 +29,25 @@
             android:exported="false" />
         <activity
             android:name=".MainActivity"
-            android:exported="true" />
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity
             android:name=".Home"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".SignInActivity"
             android:exported="false" />
         <activity
             android:name=".MainProducts"
-            android:exported="true" />
+            android:exported="false"/>
+        <activity
+            android:name=".OrderReady"
+            android:exported="false"/>
     </application>
 
 </manifest>

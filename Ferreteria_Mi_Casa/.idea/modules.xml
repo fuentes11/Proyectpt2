@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ferreteria_Mi_Casa.iml" filepath="$PROJECT_DIR$/.idea/modules/Ferreteria_Mi_Casa.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ferreteria_Mi_Casa.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ferreteria_Mi_Casa.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Proyectpt2.Ferreteria_Mi_Casa.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Proyectpt2.Ferreteria_Mi_Casa.app.iml" />
     </modules>
   </component>
 </project>
