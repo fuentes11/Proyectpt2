@@ -32,9 +32,15 @@
             android:name="com.example.ferreteria_mi_casa.NewBranch"
             android:exported="false" />
         <activity
-            android:name="com.example.ferreteria_mi_casa.products.SplashActivity"
-            android:exported="false"
-            android:theme="@style/SplashTheme" />
+            android:name="com.example.ferreteria_mi_casa.SplashActivity"
+            android:exported="true"
+            android:theme="@style/SplashTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity
             android:name="com.example.ferreteria_mi_casa.Mainbranch"
             android:exported="false" />
@@ -44,11 +50,6 @@
         <activity
             android:name="com.example.ferreteria_mi_casa.MainActivity"
             android:exported="true" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name="com.example.ferreteria_mi_casa.Home"
