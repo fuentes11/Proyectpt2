@@ -3,11 +3,6 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/TODO/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/drawable/splash_background.xml" value="0.14" />
-        <entry key="..\:/TODO/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_new.xml" value="0.12635869565217392" />
-        <entry key="..\:/TODO/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_new_branch.xml" value="0.12635869565217392" />
-        <entry key="..\:/TODO/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/item_list.xml" value="0.3605072463768116" />
-        <entry key="..\:/TODO/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/sold_activity.xml" value="0.18958333333333333" />
         <entry key="..\:/Users/BIG APPLE/AndroidStudioProjects/Ferreteria_Mi_Casa/app/src/main/res/drawable/container_btn.xml" value="0.2703125" />
         <entry key="..\:/Users/BIG APPLE/AndroidStudioProjects/Ferreteria_Mi_Casa/app/src/main/res/drawable/container_edittext.xml" value="0.2703125" />
         <entry key="..\:/Users/BIG APPLE/AndroidStudioProjects/Ferreteria_Mi_Casa/app/src/main/res/drawable/container_out_btn.xml" value="0.2484375" />
@@ -16,26 +11,11 @@
         <entry key="..\:/Users/BIG APPLE/AndroidStudioProjects/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_login.xml" value="0.128" />
         <entry key="..\:/Users/BIG APPLE/AndroidStudioProjects/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/BIG APPLE/AndroidStudioProjects/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_sign_in.xml" value="0.14739583333333334" />
-        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.196" />
-        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
-        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_empyactivity.xml" value="0.358695652173913" />
-        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
-        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_main_products.xml" value="0.18802083333333333" />
-        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_mainbranch.xml" value="0.358695652173913" />
-        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_new.xml" value="0.17395833333333333" />
-        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_new_branch.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_sign_in.xml" value="0.18802083333333333" />
-        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/item_list.xml" value="0.25" />
-        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/item_list2.xml" value="0.17831813576494426" />
-        <entry key="..\:/Users/sandoval/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/drawable/splash_background.xml" value="0.3345" />
-        <entry key="..\:/Users/sandoval/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_home.xml" value="0.17831813576494426" />
-        <entry key="..\:/Users/sandoval/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
-        <entry key="..\:/Users/sandoval/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_mainbranch.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/sandoval/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_new.xml" value="0.17831813576494426" />
-        <entry key="..\:/Users/sandoval/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/sandoval/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/item_list.xml" value="0.17831813576494426" />
-        <entry key="..\:/Users/sandoval/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/sold_activity.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/sandoval/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1825" />
+        <entry key="..\:/Users/BIG APPLE/Documents/GitHub/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/drawable/container_out_btn.xml" value="0.1609375" />
+        <entry key="..\:/Users/BIG APPLE/Documents/GitHub/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/BIG APPLE/Documents/GitHub/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_home.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/BIG APPLE/Documents/GitHub/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/BIG APPLE/Documents/GitHub/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_sign_in.xml" value="0.25052083333333336" />
       </map>
     </option>
   </component>
