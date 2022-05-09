@@ -6,16 +6,16 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml
+8-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="31" />
-9-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml
+9-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:5:5-67
-11-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:12:5-79
-12-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:12:22-76
+12-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:12:5-79
+12-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:12:22-76
 13    <uses-permission android:name="android.permission.WAKE_LOCK" />
 13-->[com.google.android.gms:play-services-measurement-api:20.1.2] C:\Users\sandoval\.gradle\caches\transforms-3\d040850d29fd7fc8e71c93dde868a9a0\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:24:5-68
 13-->[com.google.android.gms:play-services-measurement-api:20.1.2] C:\Users\sandoval\.gradle\caches\transforms-3\d040850d29fd7fc8e71c93dde868a9a0\transformed\jetified-play-services-measurement-api-20.1.2\AndroidManifest.xml:24:22-65
@@ -27,98 +27,98 @@
 15-->[com.google.android.gms:play-services-measurement:20.1.2] C:\Users\sandoval\.gradle\caches\transforms-3\e7585a45f461c37534b9c2265848321e\transformed\jetified-play-services-measurement-20.1.2\AndroidManifest.xml:26:22-107
 16
 17    <application
-17-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:7:5-53:19
+17-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:7:5-53:19
 18        android:allowBackup="true"
-18-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:8:9-35
+18-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:8:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.7.0] C:\Users\sandoval\.gradle\caches\transforms-3\ae3d17b9a38d406642a5be23053e5961\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 20        android:debuggable="true"
 21        android:extractNativeLibs="false"
 22        android:icon="@mipmap/ic_launcher"
-22-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:9:9-43
+22-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:9:9-43
 23        android:label="@string/app_name"
-23-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:10:9-41
+23-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:10:9-41
 24        android:roundIcon="@mipmap/ic_launcher_round"
-24-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:11:9-54
+24-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:11:9-54
 25        android:supportsRtl="true"
-25-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:12:9-35
+25-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:12:9-35
 26        android:testOnly="true"
 27        android:theme="@style/Theme.AppCompat.NoActionBar" >
-27-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:13:9-59
+27-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:13:9-59
 28        <activity
-28-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:14:9-16:40
+28-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:14:9-16:40
 29            android:name="com.example.ferreteria_mi_casa.CartActivity"
-29-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:15:13-41
+29-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:15:13-41
 30            android:exported="false" />
-30-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:16:13-37
+30-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:16:13-37
 31        <activity
-31-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:17:9-19:40
+31-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:17:9-19:40
 32            android:name="com.example.ferreteria_mi_casa.NewBranch"
-32-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:18:13-38
+32-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:18:13-38
 33            android:exported="false" />
-33-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:19:13-37
+33-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:19:13-37
 34        <activity
-34-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:20:9-29:20
+34-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:20:9-29:20
 35            android:name="com.example.ferreteria_mi_casa.SplashActivity"
-35-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:21:13-43
+35-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:21:13-43
 36            android:exported="true"
-36-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:22:13-36
+36-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:22:13-36
 37            android:theme="@style/SplashTheme" >
-37-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:23:13-47
+37-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:23:13-47
 38            <intent-filter>
-38-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:24:13-28:29
+38-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:24:13-28:29
 39                <action android:name="android.intent.action.MAIN" />
-39-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:25:17-69
-39-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:25:25-66
+39-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:25:17-69
+39-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:25:25-66
 40
 41                <category android:name="android.intent.category.LAUNCHER" />
-41-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:27:17-77
-41-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:27:27-74
+41-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:27:17-77
+41-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:27:27-74
 42            </intent-filter>
 43        </activity>
 44        <activity
-44-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:30:9-32:40
+44-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:30:9-32:40
 45            android:name="com.example.ferreteria_mi_casa.Mainbranch"
-45-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:31:13-39
+45-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:31:13-39
 46            android:exported="false" />
-46-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:32:13-37
+46-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:32:13-37
 47        <activity
-47-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:33:9-35:40
+47-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:33:9-35:40
 48            android:name="com.example.ferreteria_mi_casa.NewActivity"
-48-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:34:13-40
+48-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:34:13-40
 49            android:exported="false" />
-49-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:35:13-37
+49-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:35:13-37
 50        <activity
-50-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:36:9-40:20
+50-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:36:9-40:20
 51            android:name="com.example.ferreteria_mi_casa.MainActivity"
-51-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:37:13-41
+51-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:37:13-41
 52            android:exported="true" >
-52-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:38:13-36
+52-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:38:13-36
 53        </activity>
 54        <activity
-54-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:41:9-43:39
+54-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:41:9-43:39
 55            android:name="com.example.ferreteria_mi_casa.Home"
-55-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:42:13-33
+55-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:42:13-33
 56            android:exported="true" />
-56-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:43:13-36
+56-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:43:13-36
 57        <activity
-57-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:44:9-46:40
+57-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:44:9-46:40
 58            android:name="com.example.ferreteria_mi_casa.SignInActivity"
-58-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:45:13-43
+58-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:45:13-43
 59            android:exported="false" />
-59-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:46:13-37
+59-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:46:13-37
 60        <activity
-60-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:47:9-49:39
+60-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:47:9-49:39
 61            android:name="com.example.ferreteria_mi_casa.MainProducts"
-61-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:48:13-41
+61-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:48:13-41
 62            android:exported="false" />
-62-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:49:13-37
+62-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:49:13-37
 63        <activity
-63-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:50:9-52:39
+63-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:50:9-52:39
 64            android:name="com.example.ferreteria_mi_casa.OrderReady"
-64-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:51:13-39
+64-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:51:13-39
 65            android:exported="false" />
-65-->D:\TODO\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:52:13-37
+65-->C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:52:13-37
 66
 67        <service
 67-->[com.google.firebase:firebase-database-ktx:20.0.4] C:\Users\sandoval\.gradle\caches\transforms-3\eeb5438fff782eed8293c34293b95f6f\transformed\jetified-firebase-database-ktx-20.0.4\AndroidManifest.xml:12:9-18:19
@@ -167,181 +167,181 @@
 89        </service>
 90
 91        <meta-data
-91-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:16:9-18:69
+91-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:16:9-18:69
 92            android:name="com.google.android.gms.version"
-92-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:17:13-58
+92-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:17:13-58
 93            android:value="@integer/google_play_services_version" />
-93-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:18:13-66
+93-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:18:13-66
 94        <meta-data
-94-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:19:9-21:63
+94-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:19:9-21:63
 95            android:name="com.facebook.sdk.ApplicationId"
-95-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:20:13-58
+95-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:20:13-58
 96            android:value="@string/facebook_application_id" />
-96-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:21:13-60
+96-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:21:13-60
 97
 98        <activity
-98-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:23:9-27:61
+98-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:23:9-27:61
 99            android:name="com.firebase.ui.auth.KickoffActivity"
-99-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:24:13-64
+99-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:24:13-64
 100            android:exported="false"
-100-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:25:13-37
+100-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:25:13-37
 101            android:label=""
-101-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:26:13-29
+101-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:26:13-29
 102            android:theme="@style/FirebaseUI.Transparent" />
-102-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:27:13-58
+102-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:27:13-58
 103        <activity
-103-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:28:9-32:61
+103-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:28:9-32:61
 104            android:name="com.firebase.ui.auth.ui.idp.SingleSignInActivity"
-104-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:29:13-76
+104-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:29:13-76
 105            android:exported="false"
-105-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:30:13-37
+105-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:30:13-37
 106            android:label=""
-106-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:31:13-29
+106-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:31:13-29
 107            android:theme="@style/FirebaseUI.Transparent" />
-107-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:32:13-58
+107-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:32:13-58
 108        <activity
-108-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:33:9-37:61
+108-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:33:9-37:61
 109            android:name="com.firebase.ui.auth.ui.credentials.CredentialSaveActivity"
-109-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:34:13-86
+109-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:34:13-86
 110            android:exported="false"
-110-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:35:13-37
+110-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:35:13-37
 111            android:label=""
-111-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:36:13-29
+111-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:36:13-29
 112            android:theme="@style/FirebaseUI.Transparent" />
-112-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:37:13-58
+112-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:37:13-58
 113        <activity
-113-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:38:9-42:58
+113-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:38:9-42:58
 114            android:name="com.firebase.ui.auth.ui.email.RecoverPasswordActivity"
-114-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:39:13-81
+114-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:39:13-81
 115            android:exported="false"
-115-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:40:13-37
+115-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:40:13-37
 116            android:label="@string/fui_title_recover_password_activity"
-116-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:41:13-72
+116-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:41:13-72
 117            android:windowSoftInputMode="adjustResize" />
-117-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:42:13-55
+117-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:42:13-55
 118        <activity
-118-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:43:9-47:58
+118-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:43:9-47:58
 119            android:name="com.firebase.ui.auth.ui.email.EmailActivity"
-119-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:44:13-71
+119-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:44:13-71
 120            android:exported="false"
-120-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:45:13-37
+120-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:45:13-37
 121            android:label="@string/fui_sign_in_default"
-121-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:46:13-56
+121-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:46:13-56
 122            android:windowSoftInputMode="adjustResize" />
-122-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:47:13-55
+122-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:47:13-55
 123        <activity
-123-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:48:9-52:77
+123-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:48:9-52:77
 124            android:name="com.firebase.ui.auth.ui.phone.PhoneActivity"
-124-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:49:13-71
+124-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:49:13-71
 125            android:exported="false"
-125-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:50:13-37
+125-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:50:13-37
 126            android:label="@string/fui_sign_in_with_phone_number"
-126-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:51:13-66
+126-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:51:13-66
 127            android:windowSoftInputMode="adjustResize|stateAlwaysVisible" />
-127-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:52:13-74
+127-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:52:13-74
 128        <activity
-128-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:53:9-57:58
+128-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:53:9-57:58
 129            android:name="com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt"
-129-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:54:13-76
+129-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:54:13-76
 130            android:exported="false"
-130-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:55:13-37
+130-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:55:13-37
 131            android:label="@string/fui_title_welcome_back_idp_prompt"
-131-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:56:13-70
+131-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:56:13-70
 132            android:windowSoftInputMode="adjustResize" />
-132-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:57:13-55
+132-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:57:13-55
 133        <activity
-133-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:58:9-62:58
+133-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:58:9-62:58
 134            android:name="com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt"
-134-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:59:13-83
+134-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:59:13-83
 135            android:exported="false"
-135-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:60:13-37
+135-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:60:13-37
 136            android:label="@string/fui_title_welcome_back_password_prompt"
-136-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:61:13-75
+136-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:61:13-75
 137            android:windowSoftInputMode="adjustResize" />
-137-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:62:13-55
+137-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:62:13-55
 138        <activity
-138-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:63:9-67:58
+138-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:63:9-67:58
 139            android:name="com.firebase.ui.auth.ui.email.WelcomeBackEmailLinkPrompt"
-139-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:64:13-84
+139-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:64:13-84
 140            android:exported="false"
-140-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:65:13-37
+140-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:65:13-37
 141            android:label="@string/fui_title_welcome_back_password_prompt"
-141-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:66:13-75
+141-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:66:13-75
 142            android:windowSoftInputMode="adjustResize" />
-142-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:67:13-55
+142-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:67:13-55
 143        <activity
-143-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:68:9-73:58
+143-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:68:9-73:58
 144            android:name="com.firebase.ui.auth.ui.email.EmailLinkCatcherActivity"
-144-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:69:13-82
+144-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:69:13-82
 145            android:exported="false"
-145-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:70:13-37
+145-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:70:13-37
 146            android:label=""
-146-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:71:13-29
+146-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:71:13-29
 147            android:theme="@style/FirebaseUI.Transparent"
-147-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:72:13-58
+147-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:72:13-58
 148            android:windowSoftInputMode="adjustResize" />
-148-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:73:13-55
+148-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:73:13-55
 149        <activity
-149-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:74:9-78:58
+149-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:74:9-78:58
 150            android:name="com.firebase.ui.auth.ui.email.EmailLinkErrorRecoveryActivity"
-150-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:75:13-88
+150-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:75:13-88
 151            android:exported="false"
-151-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:76:13-37
+151-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:76:13-37
 152            android:label="@string/fui_sign_in_default"
-152-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:77:13-56
+152-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:77:13-56
 153            android:windowSoftInputMode="adjustResize" />
-153-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:78:13-55
+153-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:78:13-55
 154        <activity
-154-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:79:9-82:65
+154-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:79:9-82:65
 155            android:name="com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity"
-155-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:80:13-80
+155-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:80:13-80
 156            android:exported="false"
-156-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:81:13-37
+156-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:81:13-37
 157            android:label="@string/fui_default_toolbar_title" />
-157-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:82:13-62
+157-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:82:13-62
 158        <activity
-158-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:83:9-87:48
+158-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:83:9-87:48
 159            android:name="com.facebook.FacebookActivity"
-159-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:84:13-57
+159-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:84:13-57
 160            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-160-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:85:13-96
+160-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:85:13-96
 161            android:label="@string/app_name" />
-161-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:86:13-45
+161-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:86:13-45
 162        <activity
-162-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:88:9-100:20
+162-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:88:9-100:20
 163            android:name="com.facebook.CustomTabActivity"
-163-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:89:13-58
+163-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:89:13-58
 164            android:exported="true" >
-164-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:90:13-36
+164-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:90:13-36
 165            <intent-filter>
-165-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:92:13-99:29
+165-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:92:13-99:29
 166                <action android:name="android.intent.action.VIEW" />
-166-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:93:17-69
-166-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:93:25-66
+166-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:93:17-69
+166-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:93:25-66
 167
 168                <category android:name="android.intent.category.DEFAULT" />
-168-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:95:17-76
-168-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:95:27-73
+168-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:95:17-76
+168-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:95:27-73
 169                <category android:name="android.intent.category.BROWSABLE" />
-169-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:96:17-78
-169-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:96:27-75
+169-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:96:17-78
+169-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:96:27-75
 170
 171                <data android:scheme="@string/facebook_login_protocol_scheme" />
-171-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:98:17-81
-171-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:98:23-78
+171-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:98:17-81
+171-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:98:23-78
 172            </intent-filter>
 173        </activity>
 174
 175        <provider
-175-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:102:9-106:38
+175-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:102:9-106:38
 176            android:name="com.firebase.ui.auth.data.client.AuthUiInitProvider"
-176-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:103:13-79
+176-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:103:13-79
 177            android:authorities="com.example.ferreteria_mi_casa.authuiinitprovider"
-177-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:104:13-70
+177-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:104:13-70
 178            android:exported="false"
-178-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:105:13-37
+178-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:105:13-37
 179            android:initOrder="90" />
-179-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:106:13-35
+179-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:106:13-35
 180
 181        <activity
 181-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\sandoval\.gradle\caches\transforms-3\8496a027741f8bfa90cb0bac21a8b72c\transformed\jetified-firebase-auth-21.0.3\AndroidManifest.xml:27:9-44:20
@@ -358,22 +358,22 @@
 187            <intent-filter>
 187-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\sandoval\.gradle\caches\transforms-3\8496a027741f8bfa90cb0bac21a8b72c\transformed\jetified-firebase-auth-21.0.3\AndroidManifest.xml:33:13-43:29
 188                <action android:name="android.intent.action.VIEW" />
-188-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:93:17-69
-188-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:93:25-66
+188-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:93:17-69
+188-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:93:25-66
 189
 190                <category android:name="android.intent.category.DEFAULT" />
-190-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:95:17-76
-190-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:95:27-73
+190-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:95:17-76
+190-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:95:27-73
 191                <category android:name="android.intent.category.BROWSABLE" />
-191-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:96:17-78
-191-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:96:27-75
+191-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:96:17-78
+191-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:96:27-75
 192
 193                <data
-193-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:98:17-81
+193-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:98:17-81
 194                    android:host="firebase.auth"
 195                    android:path="/"
 196                    android:scheme="genericidp" />
-196-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:98:23-78
+196-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:98:23-78
 197            </intent-filter>
 198        </activity>
 199        <activity
@@ -391,22 +391,22 @@
 205            <intent-filter>
 205-->[com.google.firebase:firebase-auth:21.0.3] C:\Users\sandoval\.gradle\caches\transforms-3\8496a027741f8bfa90cb0bac21a8b72c\transformed\jetified-firebase-auth-21.0.3\AndroidManifest.xml:51:13-61:29
 206                <action android:name="android.intent.action.VIEW" />
-206-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:93:17-69
-206-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:93:25-66
+206-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:93:17-69
+206-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:93:25-66
 207
 208                <category android:name="android.intent.category.DEFAULT" />
-208-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:95:17-76
-208-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:95:27-73
+208-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:95:17-76
+208-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:95:27-73
 209                <category android:name="android.intent.category.BROWSABLE" />
-209-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:96:17-78
-209-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:96:27-75
+209-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:96:17-78
+209-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:96:27-75
 210
 211                <data
-211-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:98:17-81
+211-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:98:17-81
 212                    android:host="firebase.auth"
 213                    android:path="/"
 214                    android:scheme="recaptcha" />
-214-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\8b65764930ad98decf5a557868f2fb0f\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:98:23-78
+214-->[com.firebaseui:firebase-ui-auth:4.3.2] C:\Users\sandoval\.gradle\caches\transforms-3\c02a14468731a2e3a0e1f0d225375a9c\transformed\jetified-firebase-ui-auth-4.3.2\AndroidManifest.xml:98:23-78
 215            </intent-filter>
 216        </activity>
 217        <activity

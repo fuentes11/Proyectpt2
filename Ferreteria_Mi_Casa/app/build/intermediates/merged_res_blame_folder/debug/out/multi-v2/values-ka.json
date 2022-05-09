@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\TODO\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
+            "outputFile": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
             "map": [
                 {
                     "source": "C:\\Users\\sandoval\\.gradle\\caches\\transforms-3\\800868d739282d6938f5dd85f8317bad\\transformed\\jetified-play-services-base-18.0.1\\res\\values-ka\\values.xml",

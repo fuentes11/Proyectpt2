@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\TODO\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
+            "outputFile": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\sandoval\\.gradle\\caches\\transforms-3\\ae3d17b9a38d406642a5be23053e5961\\transformed\\core-1.7.0\\res\\values-sw\\values-sw.xml",
