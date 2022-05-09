@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\BIG APPLE\\Documents\\GitHub\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "outputFile": "C:\\Users\\jason\\AndroidStudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\BIG APPLE\\.gradle\\caches\\transforms-3\\2b75260e1ca81a9615ebed4858b27ee0\\transformed\\jetified-firebase-ui-auth-4.3.2\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\jason\\.gradle\\caches\\transforms-3\\4dce286d501417bf9e428a68b7d408bc\\transformed\\jetified-firebase-ui-auth-4.3.2\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,6,10,14",
                         "startColumns": "4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\BIG APPLE\\.gradle\\caches\\transforms-3\\56ade8ab08b8680325be343e07780646\\transformed\\appcompat-1.4.1\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\jason\\.gradle\\caches\\transforms-3\\5e31fc63a50164fd6a9576fe4a4704b1\\transformed\\appcompat-1.4.1\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

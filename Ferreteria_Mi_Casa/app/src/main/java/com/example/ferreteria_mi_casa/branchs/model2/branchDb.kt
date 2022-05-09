@@ -21,7 +21,7 @@ class branchDb {
     /**set Images*/
     fun ImageView.loadImage(uri:String?, progressDawable: CircularProgressDrawable){
 
-        val option = RequestOptions().placeholder(progressDawable)
+        val option = com.bumptech.glide.request.RequestOptions().placeholder(progressDawable)
             .error(R.mipmap.ic_launcher)
 
         Glide.with(context)
