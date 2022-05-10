@@ -32,8 +32,9 @@
             android:name="com.example.ferreteria_mi_casa.NewBranch"
             android:exported="false" />
         <activity
-            android:name="com.example.ferreteria_mi_casa.MainProducts"
-            android:exported="true" >
+            android:name="com.example.ferreteria_mi_casa.SplashActivity"
+            android:exported="true"
+            android:theme="@style/SplashTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -48,18 +49,16 @@
             android:exported="false" />
         <activity
             android:name="com.example.ferreteria_mi_casa.MainActivity"
-            android:exported="true" >
-        </activity>
+            android:exported="false" />
         <activity
             android:name="com.example.ferreteria_mi_casa.Home"
-            android:exported="true" />
+            android:exported="false" />
         <activity
             android:name="com.example.ferreteria_mi_casa.SignInActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.ferreteria_mi_casa.SplashActivity"
-            android:exported="false"
-            android:theme="@style/SplashTheme" />
+            android:name="com.example.ferreteria_mi_casa.MainProducts"
+            android:exported="false" />
         <activity
             android:name="com.example.ferreteria_mi_casa.OrderReady"
             android:exported="false" />
