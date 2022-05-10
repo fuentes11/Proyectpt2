@@ -18,9 +18,9 @@ var c: Context,var productList:ArrayList<ProductData>
     inner class ProductViewHolder(var v: ItemListBinding): RecyclerView.ViewHolder(v.root){}
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ProductViewHolder {
-        val inflter = LayoutInflater.from(parent.context)
+        val inflater = LayoutInflater.from(parent.context)
         val v = DataBindingUtil.inflate<ItemListBinding>(
-            inflter, R.layout.item_list,parent,
+            inflater, R.layout.item_list,parent,
             false)
         return ProductViewHolder(v)
 

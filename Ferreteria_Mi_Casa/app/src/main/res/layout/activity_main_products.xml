@@ -8,7 +8,15 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:context=".MainProducts"
+        android:background="@color/lila"
         >
+        <ImageView
+            android:layout_gravity="center"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/configuraciones"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="20dp"/>
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recyclerproducts"

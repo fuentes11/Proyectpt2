@@ -24,7 +24,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/Theme.AppCompat.NoActionBar" >
+        android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar" >
         <activity
             android:name="com.example.ferreteria_mi_casa.CartActivity"
             android:exported="false" />
@@ -32,9 +32,8 @@
             android:name="com.example.ferreteria_mi_casa.NewBranch"
             android:exported="false" />
         <activity
-            android:name="com.example.ferreteria_mi_casa.SplashActivity"
-            android:exported="true"
-            android:theme="@style/SplashTheme" >
+            android:name="com.example.ferreteria_mi_casa.MainProducts"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -58,8 +57,9 @@
             android:name="com.example.ferreteria_mi_casa.SignInActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.ferreteria_mi_casa.MainProducts"
-            android:exported="false" />
+            android:name="com.example.ferreteria_mi_casa.SplashActivity"
+            android:exported="false"
+            android:theme="@style/SplashTheme" />
         <activity
             android:name="com.example.ferreteria_mi_casa.OrderReady"
             android:exported="false" />

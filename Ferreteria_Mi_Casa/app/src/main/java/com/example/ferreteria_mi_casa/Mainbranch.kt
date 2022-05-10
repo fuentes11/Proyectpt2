@@ -1,7 +1,10 @@
 package com.example.ferreteria_mi_casa
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.Menu
+import android.view.MenuItem
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.ferreteria_mi_casa.R
@@ -33,7 +36,21 @@ class Mainbranch : AppCompatActivity() {
     }
     /**ok now create new activity*/
 
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.menu, menu)
+        return super.onCreateOptionsMenu(menu)
+    }
 
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        when (item.itemId) {
+            R.id.myacc ->   startActivity(Intent(this, Mainbranch::class.java))
+            R.id.products ->  startActivity(Intent(this, MainProducts::class.java))
+            R.id.About ->  startActivity(Intent(this, Mainbranch::class.java))
+            R.id.cart ->  startActivity(Intent(this, CartActivity::class.java))
+        }
+        return super.onOptionsItemSelected(item)
+
+    }
     private fun getProductsData() {
 
         mmDataBase = FirebaseDatabase.getInstance().getReference("Sucursales")

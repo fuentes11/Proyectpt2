@@ -4,12 +4,15 @@ package com.example.ferreteria_mi_casa
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.Menu
+import android.view.MenuItem
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.ferreteria_mi_casa.products.Adapter
 import com.example.ferreteria_mi_casa.products.model.ProductData
 import com.google.firebase.database.*
 import com.google.firebase.database.DatabaseReference
+import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.activity_main_products.*
 import kotlinx.android.synthetic.main.activity_new.*
 
@@ -32,6 +35,22 @@ class MainProducts : AppCompatActivity() {
 
 
     }
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.menu, menu)
+        return super.onCreateOptionsMenu(menu)
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        when (item.itemId) {
+            R.id.myacc ->   startActivity(Intent(this, Mainbranch::class.java))
+            R.id.Branchs ->  startActivity(Intent(this, Mainbranch::class.java))
+            R.id.About ->  startActivity(Intent(this, Mainbranch::class.java))
+            R.id.cart ->  startActivity(Intent(this, CartActivity::class.java))
+        }
+        return super.onOptionsItemSelected(item)
+
+    }
+
     /**ok now create new activity*/
 
 
