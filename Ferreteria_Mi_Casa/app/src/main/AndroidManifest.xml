@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
         <activity
+            android:name=".ResetActivity"
+            android:exported="false" />
+        <activity
             android:name=".CartActivity"
             android:exported="false" />
         <activity
@@ -19,9 +22,8 @@
             android:exported="false" />
         <activity
             android:name=".SplashActivity"
-            android:theme="@style/SplashTheme"
             android:exported="true"
-           >
+            android:theme="@style/SplashTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -36,21 +38,19 @@
             android:exported="false" />
         <activity
             android:name=".MainActivity"
-            android:exported="false"/>
-
+            android:exported="false" />
         <activity
             android:name=".Home"
             android:exported="false" />
         <activity
             android:name=".SignInActivity"
-
             android:exported="false" />
         <activity
             android:name=".MainProducts"
-            android:exported="false"/>
+            android:exported="false" />
         <activity
             android:name=".OrderReady"
-            android:exported="false"/>
+            android:exported="false" />
     </application>
 
 </manifest>
