@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
         <activity
-            android:name=".MyAccount"
+            android:name=".ResetActivity"
             android:exported="false" />
         <activity
             android:name=".CartActivity"

@@ -16,5 +16,7 @@
     <string name="gracias">Gracias por tu preferencia</string>
     <string name="ver_mas">VER MAS PRODUCTOS</string>
     <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="reset_password">RESET PASSWORD</string>
 
 </resources>
