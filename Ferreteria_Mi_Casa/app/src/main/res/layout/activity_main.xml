@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:orientation="vertical"
     android:background="@color/lila">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -33,6 +41,7 @@
         android:textColor="@color/white"
         android:layout_gravity="center"
         android:layout_marginBottom="20dp"/>
+
 
     <EditText
         android:id="@+id/etxgmail"
@@ -89,18 +98,20 @@
             android:layout_height="wrap_content"
             android:text="@string/newacount"
             android:textColor="@color/yellow"/>
+
         <Button
             android:id="@+id/newacount"
             android:layout_width="wrap_content"
-            android:layout_height="60dp"
+            android:layout_height="wrap_content"
             android:layout_gravity="center"
+            android:background="@color/lila"
             android:text="@string/newacount2"
             android:textColor="@color/white"
-            android:textColorHint="@color/white"
-            android:background="@color/lila"
-            />
+            android:textColorHint="@color/white" />
     </LinearLayout>
 
+    </LinearLayout>
+    </ScrollView>
 
 
-</LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

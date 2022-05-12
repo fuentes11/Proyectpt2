@@ -5,9 +5,16 @@
       <map>
         <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_cart.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_home.xml" value="0.18802083333333333" />
-        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_main.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_main_products.xml" value="0.17831813576494426" />
         <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_mainbranch.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_my_account.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_new.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_new_branch.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_sign_in.xml" value="0.33" />
         <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/item_list.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/item_list2.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/jason/AndroidStudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/sold_activity.xml" value="0.358695652173913" />
         <entry key="..\:/Users/sandoval/StudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/drawable/splash_background.xml" value="0.14" />
         <entry key="..\:/Users/sandoval/StudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_home.xml" value="0.358695652173913" />
         <entry key="..\:/Users/sandoval/StudioProjects/Proyectpt2/Ferreteria_Mi_Casa/app/src/main/res/layout/activity_main.xml" value="0.14722222222222223" />
