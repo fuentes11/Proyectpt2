@@ -13,16 +13,9 @@
         app:showAsAction="never"/>
 
     <item
-        android:id="@+id/myacc"
-        android:title="My account"
-        app:showAsAction="never"/>
-    <item
         android:id="@+id/Branchs"
         android:title="Branch offices"
         app:showAsAction="never"/>
-    <item
-        android:id="@+id/About"
-        android:title="About"
-        app:showAsAction="never"/>
+
 
 </menu>
