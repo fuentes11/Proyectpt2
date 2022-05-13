@@ -2748,11 +2748,10 @@ id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
 id btnBack
-id btnDelete
-id btnMinus
-id btnPlus
 id btn_addtocart
+id btn_comprar_carrito
 id btn_holder
+id btn_limpiar_carrito
 id btnlogin
 id btnlogout
 id btnout
@@ -2912,7 +2911,6 @@ id ignore
 id ignoreRequest
 id image
 id image2
-id imageView
 id immediateStop
 id included
 id info
@@ -3056,6 +3054,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recyclerCart
 id recyclerbranch
 id recyclerproducts
 id resend_barrier
@@ -3190,11 +3189,8 @@ id transition_transform
 id triangle
 id trouble_signing_in
 id trouble_signing_in_possible_fixes
-id txtNamea
-id txtQuantity
 id txtTotal
 id txtemail
-id txtprice
 id txttotala
 id unchecked
 id uniform
@@ -3617,6 +3613,7 @@ string gracias
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
+string lista_carrito
 string logout
 string m3_ref_typeface_brand_display_regular
 string m3_ref_typeface_brand_medium

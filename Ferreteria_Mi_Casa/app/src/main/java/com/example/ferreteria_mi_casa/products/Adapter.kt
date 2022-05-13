@@ -35,6 +35,7 @@ var c: Context,var productList:ArrayList<ProductData>
             val price = newList.price
 
             val mIntent = Intent(c, NewActivity::class.java)
+            mIntent.putExtra("key", newList.key)
             mIntent.putExtra("image",image)
             mIntent.putExtra("name",name)
             mIntent.putExtra("price",price)
