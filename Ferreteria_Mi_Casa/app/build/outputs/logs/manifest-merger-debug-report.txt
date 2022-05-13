@@ -213,74 +213,80 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\sandoval\.gradle\c
 		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
 		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:13:9-70
-activity#com.example.ferreteria_mi_casa.CartActivity
+activity#com.example.ferreteria_mi_casa.ResetActivity
 ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:14:9-16:40
 	android:exported
 		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:16:13-37
 	android:name
-		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:15:13-41
-activity#com.example.ferreteria_mi_casa.NewBranch
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:15:13-42
+activity#com.example.ferreteria_mi_casa.CartActivity
 ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:17:9-19:40
 	android:exported
 		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:18:13-38
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:18:13-41
+activity#com.example.ferreteria_mi_casa.NewBranch
+ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:20:9-22:40
+	android:exported
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:21:13-38
 activity#com.example.ferreteria_mi_casa.SplashActivity
-ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:20:9-30:20
+ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:23:9-32:20
 	android:exported
-		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:23:13-36
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:25:13-36
 	android:theme
-		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:22:13-47
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:26:13-47
 	android:name
-		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:21:13-43
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:24:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:25:13-29:29
+ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:26:17-69
+ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:26:25-66
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:28:17-77
+ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:28:27-74
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:30:27-74
 activity#com.example.ferreteria_mi_casa.Mainbranch
-ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:31:9-33:40
+ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:33:9-35:40
 	android:exported
-		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:33:13-37
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:32:13-39
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:34:13-39
 activity#com.example.ferreteria_mi_casa.NewActivity
-ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:34:9-36:40
+ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:36:9-38:40
 	android:exported
-		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:36:13-37
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:38:13-37
 	android:name
-		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:35:13-40
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:37:13-40
 activity#com.example.ferreteria_mi_casa.MainActivity
-ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:37:9-39:39
+ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:39:9-41:40
 	android:exported
-		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:39:13-37
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:41:13-37
 	android:name
-		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:38:13-41
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:40:13-41
 activity#com.example.ferreteria_mi_casa.Home
-ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:41:9-43:40
+ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:42:9-44:40
 	android:exported
-		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:43:13-37
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:44:13-37
 	android:name
-		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:42:13-33
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:43:13-33
 activity#com.example.ferreteria_mi_casa.SignInActivity
-ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:44:9-47:40
+ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:45:9-47:40
 	android:exported
 		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:45:13-43
+		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:46:13-43
 activity#com.example.ferreteria_mi_casa.MainProducts
-ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:48:9-50:39
+ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:48:9-50:40
 	android:exported
 		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:50:13-37
 	android:name
 		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:49:13-41
 activity#com.example.ferreteria_mi_casa.OrderReady
-ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:51:9-53:39
+ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:51:9-53:40
 	android:exported
 		ADDED from C:\Users\sandoval\StudioProjects\Proyectpt2\Ferreteria_Mi_Casa\app\src\main\AndroidManifest.xml:53:13-37
 	android:name

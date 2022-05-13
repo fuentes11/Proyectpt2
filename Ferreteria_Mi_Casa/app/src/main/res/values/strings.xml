@@ -18,5 +18,6 @@
     <string name="password">Password</string>
     <string name="email">Email</string>
     <string name="reset_password">RESET PASSWORD</string>
+    <string name="i_forgot_my_password">I forgot my password</string>
 
 </resources>

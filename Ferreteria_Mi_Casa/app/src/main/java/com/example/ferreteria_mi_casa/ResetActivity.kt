@@ -1,67 +1,76 @@
-package com.example.ferreteria_mi_casa;
+package com.example.ferreteria_mi_casa
 
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity
+import android.widget.EditText
+import com.google.firebase.auth.FirebaseAuth
+import android.app.ProgressDialog
+import android.content.Intent
+import android.os.Bundle
+import android.view.View
+import android.widget.Button
+import com.example.ferreteria_mi_casa.R
+import com.google.android.gms.tasks.OnCompleteListener
+import android.widget.Toast
+import com.google.firebase.auth.EmailAuthProvider
+import kotlinx.android.synthetic.main.activity_reset.*
 
-import android.app.ProgressDialog;
-import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
-import android.widget.EditText;
-import android.widget.Toast;
+class ResetActivity : AppCompatActivity() {
 
-import com.google.android.gms.tasks.OnCompleteListener;
-import com.google.android.gms.tasks.Task;
-import com.google.firebase.auth.FirebaseAuth;
-
-public class ResetActivity extends AppCompatActivity {
-
-    private EditText mEditTextEmail;
-    private Button mButtonResetPassword;
-
-    private String email ="";
-    private FirebaseAuth mAuth;
-    private ProgressDialog mDialog;
-    @Override
-    protected void onCreate(Bundle savedInstanceState){
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_reset);
-        mAuth = FirebaseAuth.getInstance();
-        mDialog = new ProgressDialog(this);
-        mEditTextEmail=(EditText)  findViewById(R.id.etEmail);
-        mButtonResetPassword=(Button) findViewById (R.id.btnreset);
-        mButtonResetPassword.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                email = mEditTextEmail.getText().toString();
-                if (!email.isEmpty()){
-                    mDialog.setMessage("Wait a minute...");
-                    mDialog.setCanceledOnTouchOutside(false);
-                    mDialog.show();
-                    resetPassword();
-
-                }
-
-            }
-        });
+    private lateinit var auth: FirebaseAuth
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_reset)
+        auth = FirebaseAuth.getInstance()
+        btn_change_password.setOnClickListener {
+            changePassword()
+        }
     }
 
-    private void resetPassword() {
-        mAuth.setLanguageCode("es");
-        mAuth.sendPasswordResetEmail(email).addOnCompleteListener(new OnCompleteListener<Void>() {
-            @Override
-            public void onComplete(@NonNull Task<Void> task) {
-            if (task.isSuccessful())   {
-                Toast.makeText(ResetActivity.this, "Anemail has been sent to reset the password", Toast.LENGTH_SHORT).show();
+    private fun changePassword() {
 
-            }
-            else {
-                Toast.makeText(ResetActivity.this, "Failed to send password reset email", Toast.LENGTH_SHORT ).show();
+        if (et_current_password.text.isNotEmpty() &&
+            et_new_password.text.isNotEmpty() &&
+            et_confirm_password.text.isNotEmpty()
+        ) {
 
-            }
-            mDialog.dismiss();
+            if (et_new_password.text.toString().equals(et_confirm_password.text.toString())) {
+
+                val user = auth.currentUser
+                if (user != null && user.email != null) {
+                    val credential = EmailAuthProvider
+                        .getCredential(user.email!!, et_current_password.text.toString())
+
+// Prompt the user to re-provide their sign-in credentials
+                    user?.reauthenticate(credential)
+                        ?.addOnCompleteListener {
+                            if (it.isSuccessful) {
+                                Toast.makeText(this, "Re-Authentication success.", Toast.LENGTH_SHORT).show()
+                                user?.updatePassword(et_new_password.text.toString())
+                                    ?.addOnCompleteListener { task ->
+                                        if (task.isSuccessful) {
+                                            Toast.makeText(this, "Password changed successfully.", Toast.LENGTH_SHORT).show()
+                                            auth.signOut()
+                                            startActivity(Intent(this, MainActivity::class.java))
+                                            finish()
+                                        }
+                                    }
+
+                            } else {
+                                Toast.makeText(this, "Re-Authentication failed.", Toast.LENGTH_SHORT).show()
+                            }
+                        }
+                } else {
+                    startActivity(Intent(this, MainActivity::class.java))
+                    finish()
+                }
+
+            } else {
+                Toast.makeText(this, "Password mismatching.", Toast.LENGTH_SHORT).show()
             }
 
-        });
+        } else {
+            Toast.makeText(this, "Please enter all the fields.", Toast.LENGTH_SHORT).show()
+        }
+
     }
 }

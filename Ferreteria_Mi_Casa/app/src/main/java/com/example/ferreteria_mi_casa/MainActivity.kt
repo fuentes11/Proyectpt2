@@ -1,12 +1,16 @@
 package com.example.ferreteria_mi_casa
 
+import android.app.AlertDialog
 import android.app.ProgressDialog
+import android.content.DialogInterface
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.TextUtils
 import android.util.Log
 import android.util.Patterns
+import android.view.View
+import android.widget.EditText
 import android.widget.Toast
 import androidx.appcompat.app.ActionBar
 import com.example.ferreteria_mi_casa.databinding.ActivityMainBinding
@@ -17,6 +21,8 @@ import com.google.android.gms.auth.api.signin.GoogleSignInOptions
 import com.google.android.gms.common.api.ApiException
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.GoogleAuthProvider
+import com.google.firebase.ktx.Firebase
+import kotlinx.android.synthetic.main.activity_main.*
 import java.lang.Exception
 
 class MainActivity : AppCompatActivity() {
@@ -26,8 +32,11 @@ class MainActivity : AppCompatActivity() {
     private lateinit var googleSingInClient: GoogleSignInClient
     private  lateinit var progressDialog: ProgressDialog
     private  lateinit var firebaseAuth: FirebaseAuth
+
+
     private  var email = ""
     private  var password =""
+
 
     private companion object{
         private const val RC_SINGIN = 100
@@ -68,6 +77,36 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent(this, SignInActivity::class.java))
             finish()
         }
+            binding.btnChange.setOnClickListener {
+                val builder = AlertDialog.Builder(this)
+                builder.setTitle("Forgot password")
+                val view = layoutInflater.inflate(R.layout.email_forgotpaswword, null)
+                val username = view.findViewById<EditText>(R.id.et_username)
+                builder.setView(view)
+                builder.setPositiveButton("Reset", DialogInterface.OnClickListener { dialog, which ->
+                    forgotPassword(username)
+                })
+                builder.setNegativeButton("Close", DialogInterface.OnClickListener { dialog, which ->  })
+                builder.show()
+            }
+        }
+
+
+
+    private fun forgotPassword(username : EditText) {
+        if (username.text.toString().isEmpty()) {
+            return
+            if (!Patterns.EMAIL_ADDRESS.matcher(username.toString()).matches()) {
+                return
+
+            }
+             firebaseAuth.sendPasswordResetEmail(email)
+                .addOnCompleteListener { task ->
+                    if (task.isSuccessful) {
+                        Toast.makeText(this, "Email Sent", Toast.LENGTH_SHORT).show()
+                    }
+                }
+        }
     }
 
     private fun validate() {
@@ -85,6 +124,7 @@ class MainActivity : AppCompatActivity() {
             firebaseLogin()
         }
     }
+
 
     private fun firebaseLogin() {
         progressDialog.show()

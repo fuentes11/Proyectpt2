@@ -88,6 +88,10 @@
         "source": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\layout\\activity_main_products.xml"
     },
     {
+        "merged": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\merged_res\\debug\\layout_email_forgotpaswword.xml.flat",
+        "source": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\layout\\email_forgotpaswword.xml"
+    },
+    {
         "merged": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round_round.png.flat",
         "source": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round_round.png"
     },
@@ -138,6 +142,10 @@
     {
         "merged": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\merged_res\\debug\\layout_item_list.xml.flat",
         "source": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_reset.xml.flat",
+        "source": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\layout\\activity_reset.xml"
     },
     {
         "merged": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_back_24.xml.flat",
