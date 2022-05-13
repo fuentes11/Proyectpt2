@@ -14,6 +14,7 @@ class ProductData {
         price:String?,
         image:String?
     ){
+        this.key = key
         this.name = name
         this.price = price
         this.image = image

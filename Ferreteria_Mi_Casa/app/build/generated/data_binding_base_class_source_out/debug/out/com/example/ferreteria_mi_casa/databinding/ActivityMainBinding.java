@@ -6,9 +6,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.ferreteria_mi_casa.R;
@@ -19,7 +19,7 @@ import java.lang.String;
 
 public final class ActivityMainBinding implements ViewBinding {
   @NonNull
-  private final LinearLayout rootView;
+  private final ConstraintLayout rootView;
 
   @NonNull
   public final Button btnlogin;
@@ -36,7 +36,7 @@ public final class ActivityMainBinding implements ViewBinding {
   @NonNull
   public final Button newacount;
 
-  private ActivityMainBinding(@NonNull LinearLayout rootView, @NonNull Button btnlogin,
+  private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull Button btnlogin,
       @NonNull EditText etxgmail, @NonNull EditText etxpassword, @NonNull SignInButton google,
       @NonNull Button newacount) {
     this.rootView = rootView;
@@ -49,7 +49,7 @@ public final class ActivityMainBinding implements ViewBinding {
 
   @Override
   @NonNull
-  public LinearLayout getRoot() {
+  public ConstraintLayout getRoot() {
     return rootView;
   }
 
@@ -104,7 +104,7 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityMainBinding((LinearLayout) rootView, btnlogin, etxgmail, etxpassword,
+      return new ActivityMainBinding((ConstraintLayout) rootView, btnlogin, etxgmail, etxpassword,
           google, newacount);
     }
     String missingId = rootView.getResources().getResourceName(id);
