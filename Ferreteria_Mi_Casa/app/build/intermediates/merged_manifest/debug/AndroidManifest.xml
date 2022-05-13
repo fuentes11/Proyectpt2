@@ -26,7 +26,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar" >
         <activity
-            android:name="com.example.ferreteria_mi_casa.ResetActivity"
+            android:name="com.example.ferreteria_mi_casa.MyAccount"
             android:exported="false" />
         <activity
             android:name="com.example.ferreteria_mi_casa.CartActivity"

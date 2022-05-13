@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "outputFile": "C:\\Users\\Athena\\Documents\\Ferreteria_Proyecto\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\sandoval\\.gradle\\caches\\transforms-3\\c02a14468731a2e3a0e1f0d225375a9c\\transformed\\jetified-firebase-ui-auth-4.3.2\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\Athena\\.gradle\\caches\\transforms-3\\27718777b346006ba39708facf478018\\transformed\\jetified-firebase-ui-auth-4.3.2\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,6,10,14",
                         "startColumns": "4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\sandoval\\.gradle\\caches\\transforms-3\\5e31fc63a50164fd6a9576fe4a4704b1\\transformed\\appcompat-1.4.1\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\Athena\\.gradle\\caches\\transforms-3\\5e31fc63a50164fd6a9576fe4a4704b1\\transformed\\appcompat-1.4.1\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

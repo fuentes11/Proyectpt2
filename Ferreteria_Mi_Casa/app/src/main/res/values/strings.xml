@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Ferreteria_Mi_Casa</string>
+
+    <string name="lista_carrito">Carrito</string>
     <!--Buttoms Name-->
     <string name="name">FERRETERIA MI CASA</string>
     <string name="Login">Login</string>

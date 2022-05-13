@@ -2748,13 +2748,10 @@ id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
 id btnBack
-id btnChange
-id btnDelete
-id btnMinus
-id btnPlus
 id btn_addtocart
-id btn_change_password
+id btn_comprar_carrito
 id btn_holder
+id btn_limpiar_carrito
 id btnlogin
 id btnlogout
 id btnout
@@ -2863,10 +2860,6 @@ id endToStart
 id end_padder
 id enterAlways
 id enterAlwaysCollapsed
-id et_confirm_password
-id et_current_password
-id et_new_password
-id et_username
 id etxgmail
 id etxgmailsignin
 id etxnumingin
@@ -2918,7 +2911,6 @@ id ignore
 id ignoreRequest
 id image
 id image2
-id imageView
 id immediateStop
 id included
 id info
@@ -3062,6 +3054,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recyclerCart
 id recyclerbranch
 id recyclerproducts
 id resend_barrier
@@ -3196,11 +3189,8 @@ id transition_transform
 id triangle
 id trouble_signing_in
 id trouble_signing_in_possible_fixes
-id txtNamea
-id txtQuantity
 id txtTotal
 id txtemail
-id txtprice
 id txttotala
 id unchecked
 id uniform
@@ -3323,7 +3313,6 @@ layout activity_main_products
 layout activity_mainbranch
 layout activity_new
 layout activity_new_branch
-layout activity_reset
 layout activity_sign_in
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
@@ -3343,7 +3332,6 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
-layout email_forgotpaswword
 layout fui_activity_invisible
 layout fui_activity_register_email
 layout fui_activity_register_phone
@@ -3516,7 +3504,6 @@ string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
 string default_web_client_id
-string email
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
@@ -3624,9 +3611,9 @@ string google_crash_reporting_api_key
 string google_storage_bucket
 string gracias
 string hide_bottom_view_on_scroll_behavior
-string i_forgot_my_password
 string icon_content_description
 string item_view_role_description
+string lista_carrito
 string logout
 string m3_ref_typeface_brand_display_regular
 string m3_ref_typeface_brand_medium
@@ -3720,7 +3707,6 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string pedido_listo
 string project_id
-string reset_password
 string search_menu_title
 string signin
 string status_bar_notification_info_overflow

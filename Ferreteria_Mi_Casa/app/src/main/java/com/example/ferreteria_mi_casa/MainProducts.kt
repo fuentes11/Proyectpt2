@@ -42,9 +42,10 @@ class MainProducts : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
-
+            R.id.cart ->  startActivity(Intent(this, CartActivity::class.java))
+            R.id.myacc ->   startActivity(Intent(this, Mainbranch::class.java))
             R.id.Branchs ->  startActivity(Intent(this, Mainbranch::class.java))
-
+            R.id.About ->  startActivity(Intent(this, Mainbranch::class.java))
             R.id.cart ->  startActivity(Intent(this, CartActivity::class.java))
         }
         return super.onOptionsItemSelected(item)
