@@ -22,6 +22,13 @@
             android:layout_width="120dp"
             android:layout_height="120dp"
             android:src="@drawable/configuraciones"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Branch office"
+            android:textSize="40dp"
+            android:textColor="@color/black"
+            android:layout_gravity="center"/>
         <ScrollView
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
@@ -74,10 +81,7 @@
                     android:textStyle="bold|normal"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"/>
-                <Button android:layout_height="wrap_content"
-                    android:layout_width="wrap_content"
-                    android:id="@+id/btn_addtocart"
-                    android:text="add to cart"/>
+
 
 
 

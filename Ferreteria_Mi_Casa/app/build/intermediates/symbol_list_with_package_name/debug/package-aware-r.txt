@@ -2633,7 +2633,6 @@ drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable tubo
 id ALT
-id About
 id BOTTOM_END
 id BOTTOM_START
 id Branchs
@@ -2748,6 +2747,7 @@ id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
 id btnBack
+id btnChange
 id btn_addtocart
 id btn_comprar_carrito
 id btn_holder
@@ -2860,6 +2860,7 @@ id endToStart
 id end_padder
 id enterAlways
 id enterAlwaysCollapsed
+id et_username
 id etxgmail
 id etxgmailsignin
 id etxnumingin
@@ -2996,7 +2997,6 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
-id myacc
 id name
 id name2
 id name_layout
@@ -3332,6 +3332,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout email_forgotpaswword
 layout fui_activity_invisible
 layout fui_activity_register_email
 layout fui_activity_register_phone
@@ -3504,6 +3505,7 @@ string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
 string default_web_client_id
+string email
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
@@ -3611,6 +3613,7 @@ string google_crash_reporting_api_key
 string google_storage_bucket
 string gracias
 string hide_bottom_view_on_scroll_behavior
+string i_forgot_my_password
 string icon_content_description
 string item_view_role_description
 string lista_carrito
@@ -3707,6 +3710,7 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string pedido_listo
 string project_id
+string reset_password
 string search_menu_title
 string signin
 string status_bar_notification_info_overflow
