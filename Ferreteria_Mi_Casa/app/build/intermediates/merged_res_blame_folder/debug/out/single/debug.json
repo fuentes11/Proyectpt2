@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\merged_res\\debug\\drawable_configuraciones.png.flat",
-        "source": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\drawable\\configuraciones.png"
-    },
-    {
         "merged": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round_round.xml.flat",
         "source": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\merged_res\\debug\\drawable_configuraciones.png.flat",
+        "source": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\drawable\\configuraciones.png"
     },
     {
         "merged": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round_foreground.png.flat",
@@ -76,12 +76,12 @@
         "source": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\drawable-v24\\martillo.jpg"
     },
     {
-        "merged": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add_box_24.xml.flat",
-        "source": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\drawable\\ic_baseline_add_box_24.xml"
-    },
-    {
         "merged": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\merged_res\\debug\\drawable_container_edittext.xml.flat",
         "source": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\drawable\\container_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add_box_24.xml.flat",
+        "source": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\src\\main\\res\\drawable\\ic_baseline_add_box_24.xml"
     },
     {
         "merged": "C:\\Users\\sandoval\\StudioProjects\\Proyectpt2\\Ferreteria_Mi_Casa\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_products.xml.flat",

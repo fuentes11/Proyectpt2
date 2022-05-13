@@ -83,31 +83,33 @@ class MainActivity : AppCompatActivity() {
                 val view = layoutInflater.inflate(R.layout.email_forgotpaswword, null)
                 val username = view.findViewById<EditText>(R.id.et_username)
                 builder.setView(view)
-                builder.setPositiveButton("Reset", DialogInterface.OnClickListener { dialog, which ->
+                builder.setPositiveButton("Reset", DialogInterface.OnClickListener { _, _ ->
                     forgotPassword(username)
                 })
-                builder.setNegativeButton("Close", DialogInterface.OnClickListener { dialog, which ->  })
+                builder.setNegativeButton("Close", DialogInterface.OnClickListener { _, _ ->  })
                 builder.show()
             }
         }
 
 
 
-    private fun forgotPassword(username : EditText) {
+    private fun forgotPassword(username : EditText){
         if (username.text.toString().isEmpty()) {
             return
-            if (!Patterns.EMAIL_ADDRESS.matcher(username.toString()).matches()) {
-                return
-
-            }
-             firebaseAuth.sendPasswordResetEmail(email)
-                .addOnCompleteListener { task ->
-                    if (task.isSuccessful) {
-                        Toast.makeText(this, "Email Sent", Toast.LENGTH_SHORT).show()
-                    }
-                }
         }
-    }
+
+        if (!Patterns.EMAIL_ADDRESS.matcher(username.text.toString()).matches()) {
+            return
+        }
+
+        firebaseAuth.sendPasswordResetEmail(username.text.toString())
+            .addOnCompleteListener { task ->
+                if (task.isSuccessful) {
+                    Toast.makeText(this,"Email sent.",Toast.LENGTH_SHORT).show()
+                }
+            }
+        }
+
 
     private fun validate() {
         //get
