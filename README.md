@@ -5,9 +5,9 @@ Andrea Elizabeth Blanco Suárez. BS200382
 Byron Roberto Sánchez Carrillo. SC170935
 Desarrollo de Software para Android DSA441 G01T
 # Manual de Usuario
-https://drive.google.com/file/d/1sjc9BV-qoDKeF3ojoRJLhWMTUUak4IMi/view?usp=sharing
+https://drive.google.com/file/d/1tAA_IGR6rypslsNCX6zhzt_Tveuvk98a/view?usp=sharing
 # Video 
-https://youtu.be/I75XZaj_ueY
+
 # Manual Tecnico
 https://drive.google.com/file/d/1A5PxJ3CNCGAMARuFj6WS34Om3B7Y-8vn/view?usp=sharing
 # Trello 
@@ -18,3 +18,4 @@ https://app.moqups.com/LQPTwE49me8lC3M8WvvZlS5jFc933ePO/view/page/ad64222d5
 Atribución — Usted debe dar crédito de manera adecuada, brindar un enlace a la licencia, e indicar si se han realizado cambios. Puede hacerlo en cualquier forma razonable, pero no de forma tal que sugiera que usted o su uso tienen el apoyo de la licenciante.
 
 CompartirIgual — Si remezcla, transforma o crea a partir del material, debe distribuir su contribución bajo la lamisma licencia del original.
+Aplicacion 100%
