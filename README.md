@@ -7,7 +7,7 @@ Desarrollo de Software para Android DSA441 G01T
 # Manual de Usuario
 https://drive.google.com/file/d/1tAA_IGR6rypslsNCX6zhzt_Tveuvk98a/view?usp=sharing
 # Video 
-
+https://youtu.be/X6UXGtOBU8g
 # Manual Tecnico
 https://drive.google.com/file/d/1A5PxJ3CNCGAMARuFj6WS34Om3B7Y-8vn/view?usp=sharing
 # Trello 
